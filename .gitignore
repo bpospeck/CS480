@@ -1,5 +1,5 @@
 # Jupyter notebook
-*.ipynb_checkpoints
+.ipynb_checkpoints
 
 # Data files that won't change
 *.dat
