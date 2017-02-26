@@ -1,3 +1,10 @@
+# Jupyter notebook
+*.ipynb_checkpoints
+
+# Data files that won't change
+*.dat
+*.data
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
