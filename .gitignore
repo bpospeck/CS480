@@ -5,6 +5,9 @@
 *.dat
 *.data
 
+# Text files that won't change
+*.txt
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
